@@ -1,0 +1,8 @@
+{
+    "AuthParameters":{
+        "USERNAME": "a3c8b9f6-b7b5-425a-be85-38607c9941a5",
+        "PASSWORD": "ABC@123456"
+    },
+    "AuthFlow": "USER_PASSWORD_AUTH",
+    "ClientId": "2224cber9cdu9e58etavg8prt2"
+}
